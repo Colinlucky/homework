@@ -15,7 +15,11 @@ The second week,we have learned chapter4,5,6,and the following is my summary of 
 Rate for 5 classmates
 
 Zhengrui 13126179 A
-    Huang Mingen 13126083
-    Diao Yuehua 13126061
-    Guo Zilong 13126077
-    Wu Jia 13126148
+
+Huang Mingen 13126083 A
+
+Diao Yuehua 13126061 A
+
+Guo Zilong 13126077 A
+
+Wu Jia 13126148 A

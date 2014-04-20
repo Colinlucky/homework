@@ -1,6 +1,6 @@
 comparisons between testing and other QA alternatives
 =======================
-#####13126180  Zhou Chuankai
+#####13126180  Zhou Chuankai  Group E
 
 ### Testing vs. Formal verification
 Tesing is important link in development process

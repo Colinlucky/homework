@@ -8,9 +8,16 @@ Different development phases
 
 #### Testing vs. Inspection
 Existence of the implemented product
+
 Levels of quality/defects
+
 Static vs. dynamic defects
+
 Localized vs. interconnected defects
+
 Combined approaches
+
 Phases and transitions
+
 Inspection of testing entities/processes
+

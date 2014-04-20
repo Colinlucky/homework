@@ -1,6 +1,6 @@
 Understanding of formal methods in general and model checking
 ===========================================
-13126180  Zhou Chuankai
+13126180  Zhou Chuankai     Group E
 #### Form methods
 Formal methods can be part of the solution if imprecise designs and implementations that deviate from product
 specifications or design intentions are the causes for faults. Formal methods can prevent injection of certain 

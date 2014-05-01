@@ -9,5 +9,6 @@ From this course through about 8 weeks,I have learnt a lot,such as what is the s
 2.  how to ensure the quality of a software system
 ----------------
 As to this question,I think a good architecture is one of main factors to ensure the quality of a software ststem,on the other hand,the testing must be considered.Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results.Testing is more than just debugging. The purpose of testing can be quality assurance, verification and validation, or reliability estimation. Testing can be used as a generic metric as well. Correctness testing and reliability testing are two major areas of testing. Software testing is a trade-off between budget, time and quality. In my opinion,six functional tests to ensure software quality:
-*  Ensure every line of code executes properly with Unit Testing.
+######*  Ensure every line of code executes properly with Unit Testing.
+Unit testing is the process of testing each unit of code in a single component. This form of testing is carried out by the developer as the component is being developed. The developer is responsible for ensuring that each detail of the implementation is logically correct. 
 

@@ -8,4 +8,5 @@ From this course through about 8 weeks,I have learnt a lot,such as what is the s
 
 2.  how to ensure the quality of a software system
 ----------------
-As to this question,I think a good architecture is one of main factors to ensure the quality of a software ststem,on the other hand,the testing must be considered.Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results
+As to this question,I think a good architecture is one of main factors to ensure the quality of a software ststem,on the other hand,the testing must be considered.Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results.Testing is more than just debugging. The purpose of testing can be quality assurance, verification and validation, or reliability estimation. Testing can be used as a generic metric as well. Correctness testing and reliability testing are two major areas of testing. Software testing is a trade-off between budget, time and quality. 
+
